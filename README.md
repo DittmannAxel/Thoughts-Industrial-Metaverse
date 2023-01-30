@@ -9,5 +9,9 @@ The Industrial Metaverse is important because it enables organizations to create
 <br> <br>
 **2nd** it is natural to start with an overall view and to think about some buildingblocks which are quite important. The following graphic might help to identify some key technologies:
 <center>
-![key industrial metaverse technologies](./pictures_start/front_idea.jpg)
+
+![key industrial metaverse technologies](pictures_start/front_idea.jpg)
+
 </center>
+
+
