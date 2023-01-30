@@ -20,4 +20,4 @@ Another teaser for the front page might be to have a quick look of an architectu
 ![architecture](pictures_start/architecture_first.jpg)
 </center>
 
-A more detailled explanation about our architecture can be found ![here](architecture/README.md)
+A more detailled explanation about our architecture can be found [here](architecture/README.md)
