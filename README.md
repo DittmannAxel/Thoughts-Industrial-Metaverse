@@ -18,8 +18,8 @@ A picture of some architects building the Industrial Metaverse, cloud enabled.
 </center>
 <br>
 
-
 <br>
+
 **2nd** it is natural to start with an overall view and think about some essential building blocks. The following graphic might help to identify some key technologies which might be essential on the Industrial Metaverse:
 <br><br>
 
