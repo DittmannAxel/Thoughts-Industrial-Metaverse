@@ -14,7 +14,7 @@ The Industrial Metaverse is important because it enables organizations to create
 
 </center>
 
-Another teaser for the front page might be to have a quick look of an architecture we are thinking of and which we are going to explain in the archtecture session.
+Another teaser for the front page might be to have a quick look of an architecture we are thinking of and which we are going to explain in the architecture session.
 <center>
 
 ![architecture](pictures_start/architecture_first.jpg)
