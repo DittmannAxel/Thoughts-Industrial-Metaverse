@@ -11,9 +11,10 @@ The Industrial Metaverse is important because it enables organizations to create
 <center>
 
 ![a cloud enabled industrial metaverse](pictures_start/front_cover.png)
-<br>
-A picture of some architects building the Industrial Metaverse, cloud enabled.
+</center>
 
+<center>
+A picture of some architects building the Industrial Metaverse, cloud enabled.
 </center>
 
 
